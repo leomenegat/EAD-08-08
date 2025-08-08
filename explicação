@@ -1,0 +1,1 @@
+O programa tem duas partes: a classe ContaBancaria, que guarda os dados da conta e controla depósitos, saques e exibição do saldo, e a classe Program, que tem o método Main para mostrar o menu e receber as opções do gerente. O Main cria e usa um objeto da classe ContaBancaria, mas toda a lógica financeira fica dentro dessa classe.
