@@ -22,7 +22,7 @@ class ContaBancaria
         }
         else
         {
-            Console.WriteLine("depósito mínimo é 1 real");
+            Console.WriteLine("deposito mínimo é 1 real");
         }
     }
 
@@ -47,3 +47,4 @@ class ContaBancaria
         Console.WriteLine("Saldo: R$" + saldo.ToString("F2"));
     }
 }
+
