@@ -24,7 +24,7 @@
                     Console.Write("nome completo: ");
                     string nome = Console.ReadLine();
 
-                    Console.Write("numero da conta: ");
+                    Console.Write("número da conta: ");
                     int numero = int.Parse(Console.ReadLine());
 
                     Console.Write("saldo inicial: ");
@@ -80,3 +80,4 @@
                 Console.WriteLine("opção inválida");
             }
         }
+
